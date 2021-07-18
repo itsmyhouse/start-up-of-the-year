@@ -1,4 +1,4 @@
 # start-up-of-the-year
-https://smart-brain113.herokuapp.com/
+https://itsmyhouse.github.io/start-up-of-the-year/
 
 from the course ZTM
